@@ -1,0 +1,5 @@
+br\com\mx8sistemas\spring5petclinic\model\Person.class
+br\com\mx8sistemas\spring5petclinic\model\Owner.class
+br\com\mx8sistemas\spring5petclinic\model\Pet.class
+br\com\mx8sistemas\spring5petclinic\model\PetType.class
+br\com\mx8sistemas\spring5petclinic\model\Vet.class

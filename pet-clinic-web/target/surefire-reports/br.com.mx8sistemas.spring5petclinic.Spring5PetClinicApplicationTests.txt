@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.mx8sistemas.spring5petclinic.Spring5PetClinicApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.144 s - in br.com.mx8sistemas.spring5petclinic.Spring5PetClinicApplicationTests
