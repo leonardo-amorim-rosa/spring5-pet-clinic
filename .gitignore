@@ -31,3 +31,4 @@ build/
 
 release.properties
 settings.*
+pom.xml.releaseBackup
